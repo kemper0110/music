@@ -1,29 +1,34 @@
 [
 	{
+		"id": 1,
 		"name": "Jealous Phonk",
 		"author": "BADM1ND",
 		"path": "BADM1ND_Jealous_Phonk.mp3",
 		"duration": "2:22"
 	},
 	{
+		"id": 2,
 		"name": "Kerosene (Phonk version)",
 		"author": "crvvdy",
 		"path": "crvvdy_Kerosene_Phonk_Version.mp3",
 		"duration": "3:27"
 	},
 	{
+		"id": 3,
 		"name": "Bloodborn",
 		"author": "KYD_EDITS, CHXNCE",
 		"path": "KYD_EDITS_CHXNCE_-_Bloodborn_73941244.mp3",
 		"duration": "2:27"
 	},
 	{
+		"id": 4,
 		"name": "Blood Night",
 		"author": "PLAYLUW",
 		"path": "PLAYLUW_Blood_Night.mp3",
 		"duration": "2:15"
 	},
 	{
+		"id": 5,
 		"name": "Memory",
 		"author": "Proof Nation",
 		"path": "Proof_Nation_Memory.mp3",
